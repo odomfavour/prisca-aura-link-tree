@@ -19,10 +19,11 @@ function App() {
               </div>
               <div className=" text-white">
                 <p className="my-4 text-center font-semibold text-lg">
-                  Prisca Aura
+                  Prisca Aura & Wears
                 </p>
                 <p className="text-base text-center">
-                  Want to know me? Connect with me via these links
+                  Shop our latest collections and connect with us through the
+                  links below.
                 </p>
               </div>
               <div className="flex justify-center items-center  text-white">
@@ -64,7 +65,7 @@ function App() {
                   Instagram
                 </Link>
                 <Link
-                  to="https://chiamaka-okeke.super.site/"
+                  to="https://www.tiktok.com/@priscaaura.wears?_r=1&_t=ZS-96SdQNz8K0K"
                   className="rounded-[30px] bg-gray-200 shadow-md py-3 text-center"
                 >
                   {" "}
